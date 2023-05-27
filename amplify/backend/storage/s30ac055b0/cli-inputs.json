@@ -1,0 +1,14 @@
+{
+  "resourceName": "s30ac055b0",
+  "policyUUID": "0ac055b0",
+  "bucketName": "examensoftwaresegundoparcial1234lolxd",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

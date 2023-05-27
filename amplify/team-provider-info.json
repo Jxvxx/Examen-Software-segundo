@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "examensoftwaresegundf50057c4": {}
+      },
+      "api": {
+        "examensoftwaresegund": {}
+      },
+      "storage": {
+        "s30ac055b0": {}
       }
     }
   }
