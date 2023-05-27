@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify98bc72b6f1824-staging-233331-authRole",
+      "UnauthRoleArn": "arn:aws:iam::819628673843:role/amplify-amplify98bc72b6f1824-staging-233331-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::819628673843:role/amplify-amplify98bc72b6f1824-staging-233331-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify98bc72b6f1824-staging-233331-deployment",
+      "UnauthRoleName": "amplify-amplify98bc72b6f1824-staging-233331-unauthRole",
+      "StackName": "amplify-amplify98bc72b6f1824-staging-233331",
+      "StackId": "arn:aws:cloudformation:us-east-1:819628673843:stack/amplify-amplify98bc72b6f1824-staging-233331/b9982340-fc1d-11ed-97b7-1246a18a4ddd",
+      "AmplifyAppId": "d3ic1lmbk67eyg"
+    },
+    "categories": {
+      "auth": {
+        "examensoftwaresegundf50057c4": {}
+      }
+    }
+  }
+}
